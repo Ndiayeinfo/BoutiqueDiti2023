@@ -1,0 +1,7 @@
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceFile\obj\Debug\ServiceFile.csproj.AssemblyReference.cache
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceFile\obj\Debug\ServiceFile.csproj.CoreCompileInputs.cache
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceFile\bin\ServiceFile.dll.config
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceFile\bin\ServiceFile.dll
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceFile\bin\ServiceFile.pdb
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceFile\obj\Debug\ServiceFile.dll
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceFile\obj\Debug\ServiceFile.pdb

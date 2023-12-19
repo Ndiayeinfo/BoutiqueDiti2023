@@ -1,0 +1,13 @@
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\bin\ServiceMetier.dll.config
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\bin\ServiceMetier.dll
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\bin\ServiceMetier.pdb
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\bin\EntityFramework.dll
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\bin\EntityFramework.SqlServer.dll
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\bin\EntityFramework.xml
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\bin\EntityFramework.SqlServer.xml
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\bin\fr\EntityFramework.resources.dll
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\obj\Debug\ServiceMetier.csproj.AssemblyReference.cache
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\obj\Debug\ServiceMetier.csproj.CoreCompileInputs.cache
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\obj\Debug\ServiceMetier.csproj.CopyComplete
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\obj\Debug\ServiceMetier.dll
+C:\Users\macbookpro\source\repos\BoutiqueDiti2023\ServiceMetier\obj\Debug\ServiceMetier.pdb

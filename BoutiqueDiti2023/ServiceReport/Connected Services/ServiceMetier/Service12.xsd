@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ServiceMetier.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ServiceMetier.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfProduits">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Produits" nillable="true" type="tns:Produits" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProduits" nillable="true" type="tns:ArrayOfProduits" />
+  <xs:complexType name="Produits">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DescriptionProduit" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="NameProduit" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PriceProduit" type="xs:int" />
+      <xs:element minOccurs="0" name="QteMinimal" nillable="true" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Produits" nillable="true" type="tns:Produits" />
+</xs:schema>

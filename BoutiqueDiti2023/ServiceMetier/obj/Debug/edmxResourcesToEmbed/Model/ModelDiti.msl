@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bdDiti2023ModelStoreContainer" CdmEntityContainer="bdDiti2023Entities">
+    <EntitySetMapping Name="Produits">
+      <EntityTypeMapping TypeName="bdDiti2023Model.Produits">
+        <MappingFragment StoreEntitySet="Produits">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NameProduit" ColumnName="NameProduit" />
+          <ScalarProperty Name="DescriptionProduit" ColumnName="DescriptionProduit" />
+          <ScalarProperty Name="PriceProduit" ColumnName="PriceProduit" />
+          <ScalarProperty Name="QteMinimal" ColumnName="QteMinimal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
